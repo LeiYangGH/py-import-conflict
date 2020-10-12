@@ -1,4 +1,4 @@
-from .utils_module.utils import \
+from utils_module.utils import \
     echo_a  # ModuleNotFoundError: No module named '__main__.utils_module'; '__main__' is not a package
 
 
